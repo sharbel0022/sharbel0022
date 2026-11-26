@@ -9,11 +9,18 @@ Computer science student at Karlstad University, Sweden, with hands-on experienc
 - **Data and infrastructure:** SQL, PostgreSQL, Git and Docker
 - **Interests:** Network monitoring, security, automation and AI-powered applications
 
-## Selected areas of work
+## Selected public projects
+
+| Project | Focus |
+| --- | --- |
+| [TextLab](https://github.com/sharbel0022/AiDetector) | Python and React application with AI provider integration, text analysis, validation and error handling. |
+| [FlyttFirman](https://github.com/sharbel0022/FlyttFirman) | Responsive Next.js and React website with a quote-request workflow and API integration. |
+
+## Other areas of work
 
 - Full-stack web applications and dashboards
 - AI-assisted document processing and workflow automation
-- Network traffic monitoring and security analysis
+- Network monitoring and cybersecurity
 
 I value readable code, practical solutions and continuous learning. Some client and academic projects are private and cannot be shared publicly.
 
